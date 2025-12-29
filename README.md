@@ -1,4 +1,4 @@
-# CL Library Craft
+# CL Library Craft - A Claude Skill
 
 > An AI skill for analyzing and generating idiomatic Common Lisp libraries.
 
