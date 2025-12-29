@@ -1,3 +1,8 @@
+---
+name: cl-library-craft
+description: Analyze and generate idiomatic Common Lisp libraries following patterns from Edi Weitz, Marijn Haverbeke, and Eitaro Fukamachi
+---
+
 # CL Library Craft
 
 A comprehensive skill for analyzing and creating idiomatic Common Lisp libraries.
