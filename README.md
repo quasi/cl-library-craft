@@ -1,6 +1,6 @@
 # CL Library Craft
 
-> A comprehensive AI skill for analyzing and generating idiomatic Common Lisp libraries.
+> An AI skill for analyzing and generating idiomatic Common Lisp libraries.
 
 ## Overview
 
@@ -19,7 +19,7 @@ CL Library Craft teaches AI assistants to understand and create Common Lisp libr
 1. Download or clone this repository
 2. Add to your Claude skills directory:
    ```
-   /mnt/skills/user/cl-library-craft/
+   /cl-library-craft/
    ```
 
 ### For Other AI Systems
@@ -189,7 +189,7 @@ MIT License - See LICENSE file
 This skill is built from studying the work of:
 
 - **Edi Weitz** - For setting the standard of CL library quality
-- **Marijn Haverbeke** - For demonstrating elegant multi-system design  
+- **Marijn Haverbeke** - For demonstrating elegant multi-system design
 - **Eitaro Fukamachi** - For modernizing CL web development
 - **Pascal Costanza** - For closer-mop and MOP expertise
 - **Stelian Ionescu** - For bordeaux-threads and portability patterns
